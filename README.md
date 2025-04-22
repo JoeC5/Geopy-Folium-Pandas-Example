@@ -6,7 +6,7 @@ Visual representations, especially when data is combined with maps, provide sign
 
 In this example. I wanted to build a map that showcases the firestations in my community as well as highlight a 2 mile radius around each station. 
 The following tools were used:
-     Excel - spreadsheet hold the addresses for firestations in the area
-     GeoPy - used to quickly pull latitude and longitude coordinates 
-     Pandas - to convert the Excel data into a useable dataframe
-     Folium - used to build the map
+Excel - spreadsheet hold the addresses for firestations in the area
+GeoPy - used to quickly pull latitude and longitude coordinates 
+Pandas - to convert the Excel data into a useable dataframe
+Folium - used to build the map 
