@@ -18,5 +18,6 @@ Here are a few more examples of how and why you could this type of visualization
 2)	Fiscal planning – example – school district needs a new elementary school. This visual helps with understanding of new location sites relative to existing schools. 
 3)	As a salesperson or marketer, you want to visualize the locations of your customer base as you are assessing your local, regional, national market penetration.
 4)	You are in law enforcement, and you track crimes in your area. Visualizing crime locations via a map can help with how area patrols are scheduled or understanding trends in the area.
-5)	You are a real estate agent or mortgage banker/broker and want to understand sales trends in your market. Mapping sales will help you understand these trends. 
+5)	You are a real estate agent or mortgage banker/broker and want to understand sales trends in your market. Mapping sales will help you understand these trends.
+
 
